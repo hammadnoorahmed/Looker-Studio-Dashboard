@@ -10,3 +10,6 @@ Importantly, from this dashboard, lessons learned and insights for supply chain 
 3. Based on categories and segments, we can also manage our resources accordingly. 
 
 This dashboard presents a basic understanding but these foundations can be replicated to manage other operations. Moreover, there are other metrics based on data and business operations which can also be used for better business operations. 
+
+https://lookerstudio.google.com/reporting/c5f53f35-d458-4cb7-aaee-b1dcbc47bc6d
+
